@@ -1,1 +1,2 @@
 <?php
+echo "Terve maailma!";
