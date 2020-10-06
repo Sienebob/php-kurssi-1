@@ -1,6 +1,7 @@
 <?php
 $taulukkotaulukko = [
-    ['a','b','c'],
-    ['d','e','f'],
-    ['g','h','i']
+    ['A','B','C'],
+    ['X','Y','Z'],
+    ['1','2','3']
 ];
+print_r($taulukkotaulukko);
