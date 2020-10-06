@@ -1,0 +1,11 @@
+Uusimaa;1697023
+Pirkanmaa;518703
+Varsinais-Suomi;479705
+Pohjois-Pohjanmaa;413179
+Keski-Suomi;274531
+Pohjois-Savo;243551
+Satakunta;216207
+Lappi;176845
+Kymenlaakso;170579
+Pohjois-Karjala;160433
+Keski-Pohjanmaa;68197
